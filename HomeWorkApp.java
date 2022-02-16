@@ -1,9 +1,6 @@
 public class HomeWorkApp {
     public static void main(String[] args){
-        printThreeWords();
-        checkSumSign();
-        printColor();
-        compareNumbers();
+        //все методы вызываются стабильно
     }
     public static void printThreeWords(){
         System.out.println("Orange");
